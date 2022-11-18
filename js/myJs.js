@@ -5,8 +5,8 @@ const textConfig = {
   text4: "Và mong Xù có thể lại dành chút thời gian, cho kẻ thất hứa này hẹn gặp được k ???",
   text5: "Dỗi :333",
   text6: "Ô's kê",
-  text7: "Cho t xin lịch của Xù nào",
-  text8: "Rảnh đây liệu mà sắp xếp",
+  text7: "Vậy cuối tuần thì hôm nào Xù rảnh?",
+  text8: "Lịch đây liệu mà sắp xếp",
   text9: "Vì",
   text10: "Ô's kê lun",
   text11:
