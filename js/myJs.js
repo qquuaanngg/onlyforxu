@@ -7,7 +7,7 @@ const textConfig = {
   text6: "Ô's kê",
   text7: "Vậy tuần sau hay tuần sau nữa Xù có rảnh không",
   text8: "Tiếp tục",
-  text9: "có rảnh k",
+  text9: "có rảnh k bận",
   text10: "Cảm ơn Xù nhé",
   text11:
     "Xù xem cho tôi cái biểu mẫu này đã nhé :333",
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://forms.gle/oC2SxRDnBj5LZqgQ9";
+            window.location = "https://forms.gle/9mpb6x41YW462eFt8";
           },
         });
       }
