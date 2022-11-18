@@ -8,7 +8,7 @@ const textConfig = {
   text7: "Vậy tuần sau Xù rảnh vào hôm nào",
   text8: "Lịch đây liệu mà sắp xếp",
   text9: "Vì",
-  text10: "Ô sờ kê lun",
+  text10: "Cảm ơn Xù nhé",
   text11:
     "Vậy hẹn gặp Xù hôm đó nhé :333",
   text12: "Okii lunn <3",
