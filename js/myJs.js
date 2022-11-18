@@ -1,8 +1,8 @@
 const textConfig = {
   text1: "Hé luu Xù!",
   text2: "Tôi có điều này muốn hỏi Xù được k ???",
-  text3: "Đầu tiên mong Xù tha lỗi vì hẹn Xù đi chơi nhưng sủi tận 1 tháng 3 ngày ",
-  text4: "Và mong Xù có thể lại dành chút thời gian, cho kẻ thất hứa này hẹn gặp được k ???",
+  text3: "Đầu tiên mong Xù tha lỗi vì hẹn Xù đi chơi nhưng sủi tận hơn 1 tháng ",
+  text4: "Mong Xù có thể lại dành chút thời gian, cho kẻ thất hứa này hẹn gặp được k ???",
   text5: "Dỗi, k cho :333",
   text6: "Ô's kê",
   text7: "Vậy tuần sau Xù rảnh vào hôm nào",
@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Vì",
   text10: "Ô sờ kê lun",
   text11:
-    "Hôm đó tôi đến đón Xù đi chơi nhá :333",
+    "Vậy hẹn gặp Xù hôm đó nhé :333",
   text12: "Okii lunn <3",
 };
 
