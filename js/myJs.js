@@ -5,10 +5,10 @@ const textConfig = {
   text4: "Và mong Xù có thể lại dành chút thời gian, cho kẻ thất hứa này hẹn gặp được k ???",
   text5: "Dỗi, k cho :333",
   text6: "Ô's kê",
-  text7: "Vậy cuối tuần thì hôm nào Xù rảnh?",
+  text7: "Vậy tuần sau Xù rảnh vào hôm nào",
   text8: "Lịch đây liệu mà sắp xếp",
   text9: "Vì",
-  text10: "Ô's kê lun",
+  text10: "Ô sờ kê lun",
   text11:
     "Hôm đó tôi đến đón Xù đi chơi nhá :333",
   text12: "Okii lunn <3",
