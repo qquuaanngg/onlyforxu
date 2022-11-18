@@ -1,6 +1,6 @@
 const textConfig = {
   text1: "Hé luu Xù!",
-  text2: "Tôi có điều này muốn hỏi Xù",
+  text2: "Tôi có điều này muốn hỏi Xù được k ???",
   text3: "Đầu tiên mong Xù tha lỗi vì hẹn Xù đi chơi nhưng sủi tận 1 tháng 3 ngày ",
   text4: "Và mong Xù có thể lại dành chút thời gian, cho kẻ thất hứa này hẹn gặp được k ???",
   text5: "Dỗi, k cho :333",
