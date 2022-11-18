@@ -8,9 +8,9 @@ const textConfig = {
   text7: "Vậy tuần sau Xù rảnh vào hôm nào",
   text8: "Lịch đây liệu mà sắp xếp",
   text9: "Vì",
-  text10: "Cảm ơn Xù nhé",
+  text10: "Thank kiu!!!Vậy hẹn gặp Xù hôm đó nhé :333",
   text11:
-    "Vậy hẹn gặp Xù hôm đó nhé :333",
+    "Xù xem cho tôi cái biểu mẫu này đã nhé :333",
   text12: "Okii lunn <3",
 };
 
