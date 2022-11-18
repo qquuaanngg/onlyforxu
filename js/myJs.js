@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://forms.gle/3ujbQG5q4WNWyYAV6";
+            window.location = "https://forms.gle/rxwjzNTXdZqMPjm97";
           },
         });
       }
