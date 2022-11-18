@@ -1,16 +1,16 @@
 const textConfig = {
   text1: "Hé luu Xù!",
   text2: "Tôi có điều này muốn hỏi Xù",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text3: "Đầu tiên mong Xù tha lỗi vì hẹn Xù đi chơi nhưng sủi tận 1 tháng 3 ngày ",
+  text4: "Và mong Xù có thể lại dành chút thời gian, cho kẻ thất hứa này hẹn gặp được k ???",
+  text5: "Dỗi :333",
+  text6: "Ô's kê",
+  text7: "Cho t xin lịch của Xù nào",
+  text8: "Rảnh đây liệu mà sắp xếp",
+  text9: "Vì",
+  text10: "Ô's kê lun",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
+    "Hôm đó tôi đến đón Xù đi chơi nhá :333",
   text12: "Okii lunn <3",
 };
 
