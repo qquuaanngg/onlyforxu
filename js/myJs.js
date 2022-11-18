@@ -5,10 +5,10 @@ const textConfig = {
   text4: "Mong Xù có thể lại dành chút thời gian, cho kẻ thất hứa này hẹn gặp được k ???",
   text5: "Dỗi, k cho :333",
   text6: "Ô's kê",
-  text7: "Vậy tuần sau Xù rảnh vào hôm nào",
-  text8: "Lịch đây liệu mà sắp xếp",
+  text7: "Vậy tuần sau hay tuần sau nữa Xù có rảnh không",
+  text8: "Tiếp tục",
   text9: "Vì",
-  text10: "Thank kiu!!!Vậy hẹn gặp Xù hôm đó nhé :333",
+  text10: "Cảm ơn Xù nhé :333",
   text11:
     "Xù xem cho tôi cái biểu mẫu này đã nhé :333",
   text12: "Okii lunn <3",
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://forms.gle/p14yReoimfWSGqwTA";
+            window.location = "https://forms.gle/oC2SxRDnBj5LZqgQ9";
           },
         });
       }
